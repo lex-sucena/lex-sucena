@@ -2,24 +2,34 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/bannerwith-background.jpg" alt="my banner"></a>
 </p>
 <h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Sucena</a> 👋
+Hi there, I'm Sucena 👋
 </h3>
-<h2 align="center">
-  I'm a self-taught Front-end Development💻 and UX/UI design🎨 student.
-</h2>  
+<hr>
 
 ### :man_technologist: About Me :
 Just your average nerd, in love with astronomy, music and dinosaurs.
 
 - :telescope: Currently finishing my senior year of high school and studying frontend dev in the spare time.
 
-- :round_pushpin:Currently living in Goiânia, Brazil <img style="width: 30px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazil.png">
+- :round_pushpin:Currently living in Goiânia, Brazil <img style="width: 30px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazil.png">.
 
 - :seedling: Exploring UX/UI Design.
 
 - :zap: In my free time, I love to listen to music and watch tv shows.
 
-## 🤝 Connect with me:
+<hr>
+
+### 🛠 &nbsp;Languages and Tools :
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
+
+<hr>
+
+### 🤝 Connect with me:
 
 <div id="badges">
   <a href="your-youtube-URL">
@@ -35,3 +45,6 @@ Just your average nerd, in love with astronomy, music and dinosaurs.
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sucena29)](https://git.io/streak-stats)
