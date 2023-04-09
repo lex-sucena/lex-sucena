@@ -8,7 +8,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Sucena</a> 👋
   I'm a self-taught Front-end Development💻 and UX/UI design🎨 student.
 </h2> 
 
-I'm 17 years old, I currently live in Goiânia, Brazil <img style="width: 30px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazil.png">.
+Just your average nerd, in love with astronomy, music and dinosaurs. Currently living in Goiânia, Brazil <img style="width: 30px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazil.png"> and finishing my senior year in High School. 
 
 ### 💻 What I currently learning:
 
