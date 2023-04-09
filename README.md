@@ -3,7 +3,7 @@
 ![I'm a self-taught web development and UX/UI design student.](https://raw.githubusercontent.com/sucena29/sucena29/main/assets/bannerwith-background.jpg)
 
 About me:
-I'm 17 years old, I currently live in Goiânia <img src="">, Brazil .
+I'm 17 years old, I currently live in Goiânia <img style="width: 40px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazilian-flag-icon.png">, Brazil .
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning:
