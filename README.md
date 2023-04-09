@@ -4,8 +4,6 @@
 
 I'm 17 years old, currently living in Goiânia, Brazil.
 
-Skills: HTML / CSS / JAVASCRIPT / GIT
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Front end technologies 
 - 😄 Pronouns: He / him 
