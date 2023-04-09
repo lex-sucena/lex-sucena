@@ -49,4 +49,4 @@ Just your average nerd, in love with astronomy, music and dinosaurs.
 <hr>
 
 ### 🔥 &nbsp; My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=sucena29&show_icons=true&theme=transparent&title_color=63849F&text_color=63849F&icon_color=63849F&border_color=63849F"><img src="https://streak-stats.demolab.com?user=sucena29&fire=63849F&ring=63849F&currStreakLabel=63849F&border=63849F&background=transparent&stroke=63849F">
+<img src="https://streak-stats.demolab.com?user=sucena29&fire=63849F&ring=63849F&currStreakLabel=63849F&border=63849F&background=transparent&stroke=63849F"><img src="https://github-readme-stats.vercel.app/api?username=sucena29&show_icons=true&theme=transparent&title_color=63849F&text_color=63849F&icon_color=63849F&border_color=63849F">
