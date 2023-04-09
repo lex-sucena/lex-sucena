@@ -4,6 +4,7 @@
 <h3 align="center">
 Hi there, I'm Sucena 👋
 </h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sucena29&style=flat-square&color=blue" alt=""></p>
 <hr>
 
 ### :man_technologist: About Me :
