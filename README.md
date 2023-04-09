@@ -47,4 +47,5 @@ Just your average nerd, in love with astronomy, music and dinosaurs.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sucena29)](https://git.io/streak-stats)
+### 🔥 &nbsp; My Stats :
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sucena29&show_icons=true&theme=transparent&title_color=63849F&text_color=63849F&icon_color=63849F&border_color=63849F"><img align="right" src="https://streak-stats.demolab.com?user=sucena29&fire=63849F&ring=63849F&currStreakLabel=63849F&border=63849F&background=transparent&stroke=63849F">
