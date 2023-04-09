@@ -10,9 +10,9 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Sucena</a> 👋
 
 I'm 17 years old, I currently live in Goiânia, Brazil <img style="width: 30px;" src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/brazil.png">.
 ### 🤝 Connect with me:
-
-<a href="#"><img align="left" src="#" alt="Sucena | Twitter" width="21px"/></a>
+<a href="#"><img align="left" src="" alt="Sucena | Twitter" width="21px"/></a>
 <a href="#"><img align="left" src="#" alt="Sucena | Gmail" width="21px"/></a>
+<a href="#"><img align="left" src="#" alt="Sucena | LinkedIn" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
