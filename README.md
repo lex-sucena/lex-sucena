@@ -33,7 +33,7 @@ Just your average nerd, in love with astronomy, music and dinosaurs.
 ### 🤝 Connect with me:
 
 <div id="badges">
-  <a href="your-youtube-URL">
+  <a href="https://www.linkedin.com/in/alexander-sucena/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:alex.everythingelse@gmail.com">
