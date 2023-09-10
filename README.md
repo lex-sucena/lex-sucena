@@ -2,7 +2,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/bannerwith-background.jpg" alt="my banner"></a>
 </p>
 <h3 align="center">
-Hi there, I'm Sucena 👋
+Hi there, I'm Lex 👋
 </h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sucena29&style=flat-square&color=blue" alt=""></p>
 <hr>
