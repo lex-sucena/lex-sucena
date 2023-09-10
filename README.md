@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/me-basically.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sucena29/sucena29/main/assets/me-basically.png" alt="my banner" width="300px"></a>
 </p>
 <h3 align="center">
 Hi there, I'm Lex 👋
