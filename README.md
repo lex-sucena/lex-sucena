@@ -48,7 +48,4 @@ Just your average nerd, in love with astronomy, music and dinosaurs.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 <hr>
 
-### 🔥 &nbsp; My Stats :
-<img src="https://streak-stats.demolab.com?user=sucena29&fire=63849F&ring=63849F&currStreakLabel=63849F&border=63849F&background=transparent&stroke=63849F">
-
 
